@@ -31,3 +31,4 @@ result_percentage = percentage(50, 20)
 print(result_add, result_subtract, result_multiply, result_divide, result_percentage)
 
 output:-
+![Screenshot 2024-07-21 230241](https://github.com/user-attachments/assets/086fb782-2a72-4a53-a1d7-565037a42258)
