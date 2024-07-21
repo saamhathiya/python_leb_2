@@ -5,3 +5,5 @@ def draw_pattern(n):
         print()
 
 draw_pattern(5)
+
+output :-
