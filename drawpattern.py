@@ -7,3 +7,4 @@ def draw_pattern(n):
 draw_pattern(5)
 
 output :-
+![Screenshot 2024-07-21 215029](https://github.com/user-attachments/assets/0592172e-823d-4f62-ad74-a4725b9148ac)
