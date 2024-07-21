@@ -1,7 +1,10 @@
-# Open a file in write mode and write content
-with open("example.txt", "w") as file:
-    file.write("Hello, this is some text.")
+# Create a file and write to it
+with open('example.txt', 'w') as file:
+    file.write('Hello, World!')
 
-# Open a file in write mode and write content
-with open("example.txt", "w") as file:
-    file.write("Hello, this is some text.")
+# Read from the file
+with open('example.txt', 'r') as file:
+    content = file.read()
+    print(content)
+
+output:-
