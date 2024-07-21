@@ -29,3 +29,5 @@ result_divide = divide(8, 2)
 result_percentage = percentage(50, 20)
 
 print(result_add, result_subtract, result_multiply, result_divide, result_percentage)
+
+output:-
